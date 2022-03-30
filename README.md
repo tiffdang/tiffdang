@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tiffdang
 - 👀 I’m interested in product marketing roles
 - 🌱 I’m currently learning figma
-- 💞️ I’m looking to collaborate on go-to-market strategy for b2b products
+- 💞️ I’m looking to collaborate on b2b products that streamline workflows
 - 📫 you can reach me at dangt@usc.edu or https://www.dangmedia.co/
 
 <!---
