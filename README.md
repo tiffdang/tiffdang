@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tiffdang
-- 👀 I’m interested in product marketing roles
 - 🌱 I’m currently learning figma
 - 💞️ I’m looking to collaborate on teledermatology products that streamline access to skincare products 
 - 📫 you can reach me at tiffdang1@gmail.com 
