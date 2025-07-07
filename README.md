@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tiffdang
 - 👀 I’m interested in product marketing roles
 - 🌱 I’m currently learning figma
-- 💞️ I’m looking to collaborate on b2b products that streamline workflows for IT, Marketing & Sales Teams
-- 📫 you can reach me at dangt@usc.edu or https://www.dangmedia.co/
+- 💞️ I’m looking to collaborate on teledermatology products that streamline access to skincare products 
+- 📫 you can reach me at tiffdang1@gmail.com 
 
 <!---
 tiffdang/tiffdang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
