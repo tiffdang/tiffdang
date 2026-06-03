@@ -79,4 +79,4 @@ Connect
 - Email: tiffdang1@gmail.com
 
 
-"Build systems that help people make better decisions."
+Let's build systems that help people make better decisions together!
