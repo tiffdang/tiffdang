@@ -63,18 +63,20 @@ How I Think
 I am particularly interested in how organizations make decisions when information is incomplete, uncertain, or constantly changing.
 
 Many of the projects here explore questions such as:
+- Which signals should we trust?
+- How should conflicting information be reconciled?
+- What tradeoffs matter most?
+- How do we make decisions explainable and auditable?
+- How can software help humans make better decisions?
 
-Which signals should we trust?
-How should conflicting information be reconciled?
-What tradeoffs matter most?
-How do we make decisions explainable and auditable?
-How can software help humans make better decisions?
 Professional Background
-Strategy Consultant at ZS Associates
-Portfolio Operations & Analytics at American Realty Advisors
-Experience across operations, analytics, investment management, and product-oriented problem solving
+- Strategy Consultant at ZS Associates
+- Product Marketing Manager at American Realty Advisors
+- Experience across operations, analytics, investment management, and product-oriented problem solving
+
 Connect
-LinkedIn: linkedin.com/in/tiffdang1
-Email: tiffdang1@gmail.com
+- LinkedIn: linkedin.com/in/tiffdang1
+- Email: tiffdang1@gmail.com
+
 
 "Build systems that help people make better decisions."
