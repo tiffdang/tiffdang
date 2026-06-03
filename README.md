@@ -2,9 +2,7 @@ Hi, I'm Tiffany 👋
 
 Product-minded strategist focused on building systems that improve decision-making, operations, and real-world outcomes.
 
-My background spans strategy consulting, real estate investment operations, analytics, and workflow design. 
-
-I enjoy working at the intersection of product, operations, data, and automation—especially on problems involving uncertainty, resource allocation, and large-scale systems.
+My background spans strategy consulting, real estate operations, analytics, and workflow design. I enjoy working at the intersection of product, data, operations, and automation—especially on problems involving uncertainty, resource allocation, and large-scale systems.
 
 What I'm Interested In
 - Product Management
@@ -37,15 +35,17 @@ Focus Areas
 - Deployment timeline sensitivity
 - Provenance-aware decisioning
 
-Selected Skills
-- Product & Strategy
+Skills
+
+Product & Strategy
 - Product Discovery
 - Roadmapping
 - Prioritization
 - Stakeholder Management
 - Business Case Development
 - Market Analysis
-- Data & Analytics
+  
+Data & Analytics
 - SQL
 - Python
 - Tableau
@@ -81,4 +81,4 @@ Connect
 - Email: tiffdang1@gmail.com
 
 
-Let's build systems that help people make better decisions together!
+Building systems that help people make better decisions 
