@@ -1,84 +1,61 @@
-Hi, I'm Tiffany 👋
+# Hi, I'm Tiffany 👋
 
-Product-minded strategist focused on building systems that improve decision-making, operations, and real-world outcomes.
+I'm a product marketer and systems builder exploring how AI can turn complex products, fragmented information, and uncertain decisions into clear stories and useful workflows.
 
-My background spans strategy consulting, real estate operations, analytics, and workflow design. I enjoy working at the intersection of product, data, operations, and automation—especially on problems involving uncertainty, resource allocation, and large-scale systems.
+My background spans product marketing, strategy consulting, real estate investment management, analytics, and operations. I work at the intersection of **product, market, data, and execution**—from understanding customers and positioning technical products to prototyping the systems behind the story.
 
-What I'm Interested In
-- Product Management
-- Autonomous Systems
-- Decision Intelligence
-- Mapping & Geospatial Analysis
-- AI-Assisted Workflows
-- Simulation & Scenario Modeling
-  
-Current Projects
+## What I'm building
 
-Airport Launch Operating System
-A prototype operating system for evaluating airport launch opportunities using geospatial analysis, operational constraints, and scoring frameworks.
+### AI-native product marketing
 
-Focus Areas
+I'm learning in public by using AI to research markets, prototype workflows, pressure-test positioning, and create go-to-market artifacts. The goal is not to automate judgment; it is to make the research and iteration behind good product marketing faster, more rigorous, and more transparent.
 
-- GIS-based opportunity mapping
-- Airport segmentation
-- Launch readiness scoring
-- Operational risk assessment
-- Deployment prioritization
+- [Benchling: Positioning the data backbone for AI-powered biotech R&D](case-studies/benchling/README.md)
+- More market, messaging, and launch experiments coming soon
 
-Data Center Site Intelligence Workflow
-A decision-support workflow for evaluating data center development opportunities using infrastructure, utility, and market signals.
+### Airport Launch Operating System
 
-Focus Areas
-- Site selection
-- Infrastructure intelligence
-- Comparative analysis
-- Deployment timeline sensitivity
-- Provenance-aware decisioning
+A prototype decision system for evaluating airport launch opportunities using geospatial analysis, operational constraints, and explainable scoring.
 
-Skills
+**Focus:** opportunity mapping, airport segmentation, launch readiness, operational risk, and deployment prioritization.
 
-Product & Strategy
-- Product Discovery
-- Roadmapping
-- Prioritization
-- Stakeholder Management
-- Business Case Development
-- Market Analysis
-  
-Data & Analytics
-- SQL
-- Python
-- Tableau
-- Data Modeling
-- Forecasting
-- Scenario Analysis
+### Data Center Site Intelligence
 
-Technical
-- GIS & Spatial Analysis
-- Workflow Automation
-- API Integrations
-- Data Pipelines
-- Dashboard Development
-- AI-Assisted Prototyping
+A decision-support workflow for evaluating development opportunities using infrastructure, utility, market, and timeline signals.
 
-How I Think
-I am particularly interested in how organizations make decisions when information is incomplete, uncertain, or constantly changing.
+**Focus:** site selection, provenance-aware research, comparative analysis, and scenario modeling.
 
-Many of the projects here explore questions such as:
-- Which signals should we trust?
-- How should conflicting information be reconciled?
-- What tradeoffs matter most?
-- How do we make decisions explainable and auditable?
-- How can software help humans make better decisions?
+## How I work
 
-Professional Background
-- Strategy Consultant at ZS Associates
+Across product marketing and product strategy, I tend to ask the same questions:
+
+- Who is making the decision, and what change are they trying to create?
+- Which signals deserve trust, and what remains uncertain?
+- How do we translate technical capability into meaningful customer value?
+- What evidence would make the positioning more credible?
+- How can we test the story before scaling it?
+
+## Capabilities
+
+| Product marketing & strategy | Data & systems | Building & analysis |
+| --- | --- | --- |
+| Positioning and messaging | SQL and data modeling | AI-assisted prototyping |
+| Market and competitive research | Tableau and dashboards | Workflow automation |
+| Customer and buyer insight | Forecasting and scenarios | API integrations |
+| Go-to-market planning | GIS and spatial analysis | Data pipelines |
+| Sales enablement | Decision frameworks | Research synthesis |
+
+## Background
+
 - Product Marketing Manager at American Realty Advisors
-- Experience across operations, analytics, investment management, and product-oriented problem solving
+- Strategy Consultant at ZS Associates
+- Experience across investment management, operations, analytics, and product-oriented problem solving
 
-Connect
-- LinkedIn: linkedin.com/in/tiffdang1
-- Email: tiffdang1@gmail.com
+## Follow the journey
 
+I'm documenting what I learn about AI, product marketing, and building decision systems—starting with short experiments and turning the strongest ideas into deeper case studies.
 
-Building systems that help people make better decisions 
+- [LinkedIn](https://www.linkedin.com/in/tiffdang1/)
+- Email: [tiffdang1@gmail.com](mailto:tiffdang1@gmail.com)
+
+*Building clearer stories and better systems for consequential decisions.*
