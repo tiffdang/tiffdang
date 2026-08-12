@@ -2,9 +2,9 @@
 
 **Product marketer and systems builder | Enterprise AI, life sciences, and data platforms**
 
-I turn complex products, fragmented information, and uncertain decisions into clear market stories and useful workflows. My background spans product marketing, strategy consulting, investment management, analytics, and operations—working at the intersection of **product, market, data, and execution**.
+I turn complex products, fragmented information, and uncertain decisions into clear market stories and useful workflows. My background spans product marketing, strategy consulting, investment management, analytics, and operations. Working at the intersection of **product, market, data, and execution**.
 
-I am especially interested in the infrastructure that makes AI useful in real organizations: trustworthy context, thoughtful workflow design, and human judgment at the moments that matter.
+I'm interested in the infrastructure that makes AI useful in real organizations: trustworthy context, thoughtful workflow design, and human judgment at the moments that matter
 
 ## Featured work
 
@@ -22,7 +22,7 @@ An independent positioning thesis for evolving the story from modern ELN/LIMS to
 
 ### Decision systems in development
 
-I am also prototyping explainable decision-support workflows for airport launches and data-center site selection.
+I am also prototyping explainable decision-support workflows for airport launches and data center site selection.
 
 **Focus:** opportunity mapping · provenance-aware research · scenario modeling · operational risk · deployment prioritization
 
