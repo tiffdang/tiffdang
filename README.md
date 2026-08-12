@@ -1,40 +1,37 @@
-# Hi, I'm Tiffany 👋
+# Tiffany Dang
 
-I'm a product marketer and systems builder exploring how AI can turn complex products, fragmented information, and uncertain decisions into clear stories and useful workflows.
+**Product marketer and systems builder | Enterprise AI, life sciences, and data platforms**
 
-My background spans product marketing, strategy consulting, real estate investment management, analytics, and operations. I work at the intersection of **product, market, data, and execution**—from understanding customers and positioning technical products to prototyping the systems behind the story.
+I turn complex products, fragmented information, and uncertain decisions into clear market stories and useful workflows. My background spans product marketing, strategy consulting, investment management, analytics, and operations—working at the intersection of **product, market, data, and execution**.
 
-## What I'm building
+I am especially interested in the infrastructure that makes AI useful in real organizations: trustworthy context, thoughtful workflow design, and human judgment at the moments that matter.
 
-### AI-native product marketing
+## Featured work
 
-I'm learning in public by using AI to research markets, prototype workflows, pressure-test positioning, and create go-to-market artifacts. The goal is not to automate judgment; it is to make the research and iteration behind good product marketing faster, more rigorous, and more transparent.
+### [The AI Biology Stack: From model output to R&D execution](case-studies/ai-biology-stack/README.md)
 
-- [Benchling: Positioning the data backbone for AI-powered biotech R&D](case-studies/benchling/README.md)
-- [The AI Biology Stack: From model output to R&D execution](case-studies/ai-biology-stack/README.md)
-- More market, messaging, and launch experiments coming soon
+An independent PMM case study on how AI-assisted biology creates value through connected scientific context, computation, experiment execution, and validated learning.
 
-### Airport Launch Operating System
+**Focus:** market mapping · category framing · buyer messaging · competitive positioning · GTM validation
 
-A prototype decision system for evaluating airport launch opportunities using geospatial analysis, operational constraints, and explainable scoring.
+### [Benchling: Positioning the data backbone for AI-powered biotech R&D](case-studies/benchling/README.md)
 
-**Focus:** opportunity mapping, airport segmentation, launch readiness, operational risk, and deployment prioritization.
+An independent positioning thesis for evolving the story from modern ELN/LIMS to the AI-ready R&D platform that connects scientific data, workflows, and models.
 
-### Data Center Site Intelligence
+**Focus:** enterprise positioning · audience strategy · competitive framing · adoption and expansion
 
-A decision-support workflow for evaluating development opportunities using infrastructure, utility, market, and timeline signals.
+### Decision systems in development
 
-**Focus:** site selection, provenance-aware research, comparative analysis, and scenario modeling.
+I am also prototyping explainable decision-support workflows for airport launches and data-center site selection.
+
+**Focus:** opportunity mapping · provenance-aware research · scenario modeling · operational risk · deployment prioritization
 
 ## How I work
 
-Across product marketing and product strategy, I tend to ask the same questions:
-
-- Who is making the decision, and what change are they trying to create?
-- Which signals deserve trust, and what remains uncertain?
-- How do we translate technical capability into meaningful customer value?
-- What evidence would make the positioning more credible?
-- How can we test the story before scaling it?
+- Start with the customer decision and the evidence required to move it.
+- Translate technical capability into credible, specific customer value.
+- Use AI to accelerate research, synthesis, prototyping, and iteration—not to replace judgment.
+- Test the narrative in a real workflow before scaling it.
 
 ## Capabilities
 
@@ -48,15 +45,13 @@ Across product marketing and product strategy, I tend to ask the same questions:
 
 ## Background
 
-- Product Marketing Manager at American Realty Advisors
-- Strategy Consultant at ZS Associates
+- Product Marketing Manager, American Realty Advisors
+- Strategy Consultant, ZS Associates
 - Experience across investment management, operations, analytics, and product-oriented problem solving
 
-## Follow the journey
-
-I'm documenting what I learn about AI, product marketing, and building decision systems—starting with short experiments and turning the strongest ideas into deeper case studies.
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/tiffdang1/)
-- Email: [tiffdang1@gmail.com](mailto:tiffdang1@gmail.com)
+- [tiffdang1@gmail.com](mailto:tiffdang1@gmail.com)
 
 *Building clearer stories and better systems for consequential decisions.*
