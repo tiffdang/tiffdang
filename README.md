@@ -11,6 +11,7 @@ My background spans product marketing, strategy consulting, real estate investme
 I'm learning in public by using AI to research markets, prototype workflows, pressure-test positioning, and create go-to-market artifacts. The goal is not to automate judgment; it is to make the research and iteration behind good product marketing faster, more rigorous, and more transparent.
 
 - [Benchling: Positioning the data backbone for AI-powered biotech R&D](case-studies/benchling/README.md)
+- [The AI Biology Stack: From model output to R&D execution](case-studies/ai-biology-stack/README.md)
 - More market, messaging, and launch experiments coming soon
 
 ### Airport Launch Operating System
