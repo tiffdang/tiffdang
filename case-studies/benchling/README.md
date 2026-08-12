@@ -20,11 +20,11 @@ Benchling already participates in that workflow: scientists use it to design exp
 
 Benchling's potential advantage is the combination of:
 
-1. **Daily scientific workflow** — where scientists design, execute, and document work.
-2. **Structured scientific context** — entities, samples, lineage, results, and relationships.
-3. **Connectivity and automation** — instruments, APIs, events, integrations, and developer tools.
-4. **Enterprise trust** — governance, security, permissions, and validated workflows.
-5. **AI activation** — agents and models operating within the context of real experiments.
+1. **Daily scientific workflow**: where scientists design, execute, and document work.
+2. **Structured scientific context**: entities, samples, lineage, results, and relationships.
+3. **Connectivity and automation**: instruments, APIs, events, integrations, and developer tools.
+4. **Enterprise trust**: governance, security, permissions, and validated workflows.
+5. **AI activation**: agents and models operating within the context of real experiments.
 
 ## Audience map
 
@@ -57,7 +57,7 @@ AI-ready R&D platform for biotechnology
 
 ### Positioning idea
 
-For biotech organizations trying to turn fragmented experiments and AI investments into faster scientific progress, Benchling connects scientific data, people, instruments, and models in the workflows where R&D happens. Unlike disconnected notebooks, point tools, or general-purpose data infrastructure, Benchling preserves the full context of every experiment so each result can improve the next decision.
+For biotech organizations trying to turn fragmented experiments and AI investments into faster scientific progress, Benchling connects scientific data, people, instruments, and models in the workflows where R&D happens. Unlike disconnected notebooks, point tools, or general, purpose data infrastructure, Benchling preserves the full context of every experiment so each result can improve the next decision.
 
 ### Narrative spine
 
