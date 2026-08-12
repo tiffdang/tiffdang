@@ -1,6 +1,6 @@
 # The AI Biology Stack: From model output to R&D execution
 
-> Independent product marketing case study. Created from publicly available information. It is not affiliated with, endorsed by, or commissioned by any company named here.
+> Independent product marketing case study. Created from publicly available information
 
 ## The question
 
@@ -8,7 +8,7 @@ AI can increasingly generate biological hypotheses, designs, and analyses. But a
 
 **What must be in place for AI-assisted biology to move reliably from a model output to an executed, interpretable, and repeatable R&D decision?**
 
-This project maps the emerging AI-biology stack and proposes a product-marketing frame for the companies building across it—from computational-workbench providers such as Tamarind Bio to scientific workflow and data platforms such as Benchling, TetraScience, Sapio, and Dotmatics.
+This project maps the emerging AI-biology stack and proposes a product marketing frame for the companies building across it from computational-workbench providers such as Tamarind Bio to scientific workflow and data platforms such as Benchling, TetraScience, Sapio, and Dotmatics.
 
 ## Core thesis
 
@@ -16,11 +16,11 @@ This project maps the emerging AI-biology stack and proposes a product-marketing
 
 A model may suggest a protein variant, a compound, or a next experiment. Value compounds only when the organization can:
 
-1. ground the task in trustworthy scientific context;
-2. run the analysis or design workflow reproducibly;
-3. route the output into the wet-lab or automation workflow;
-4. capture results with lineage and provenance; and
-5. use the evidence to decide, refine, or safely reject the next action.
+1. ground the task in trustworthy scientific context
+2. run the analysis or design workflow reproducibly
+3. route the output into the wet-lab or automation workflow
+4. capture results with lineage and provenance and
+5. use the evidence to decide, refine, or safely reject the next action
 
 That shifts the buyer conversation from “Which AI feature should we try?” to “How do we create a scientific learning loop that earns trust and improves over time?”
 
@@ -52,7 +52,7 @@ Benchling, Sapio, and Dotmatics are framing AI inside the systems where scientis
 
 ### 4. The standard of proof is rising
 
-OpenAI's life-science work and LifeSciBench emphasize that biology AI must be evaluated on realistic research work—not isolated factual questions. For product marketers, this is a useful correction: a technically impressive model claim needs a clear workflow, evidence standard, human role, and measurable scientific or operational outcome.
+OpenAI's life science work and LifeSciBench emphasize that biology AI must be evaluated on realistic research work. For product marketers, this is a useful correction: a technically impressive model claim needs a clear workflow, evidence standard, human role, and measurable scientific or operational outcome.
 
 ## Competitive map: competing for different jobs
 
@@ -64,7 +64,7 @@ OpenAI's life-science work and LifeSciBench emphasize that biology AI must be ev
 | Frontier model and research capability | OpenAI and specialized scientific-model teams | Improve reasoning, analysis, design, and research productivity | Model performance versus real-world evaluation, safety, and deployment |
 | Internal stack and status quo | Data teams, scripts, spreadsheets, instrument software | Solve a local problem quickly | Local flexibility versus repeatability, visibility, and scale |
 
-This is an analytical frame, not a market-share claim. Companies can compete, partner, or integrate depending on the customer workflow.
+This is an analytical frame, not a market share claim. Companies can compete, partner, or integrate depending on the customer workflow.
 
 ## PMM insight: sell the loop, not the layer
 
@@ -86,7 +86,7 @@ The most compelling message changes by buyer, but the narrative should preserve 
 
 ### Positioning statement
 
-For R&D organizations that want AI to improve real scientific decisions—not merely generate promising outputs—the scientific learning loop connects trusted experimental context, computational intelligence, and wet-lab execution. Unlike a standalone model or disconnected point workflow, it preserves the evidence and human review required for each result to improve the next decision.
+For R&D organizations that want AI to improve real scientific decisions—not merely generate promising outputs, the scientific learning loop connects trusted experimental context, computational intelligence, and wet-lab execution. Unlike a standalone model or disconnected point workflow, it preserves the evidence and human review required for each result to improve the next decision.
 
 ### Message hierarchy
 
@@ -108,10 +108,10 @@ This project intentionally separates a useful strategic hypothesis from validate
 
 This case study is the first layer of a build-in-public project. Planned additions:
 
-- A buyer interview guide for validating the learning-loop thesis
+- A buyer interview guide for validating the learning loop thesis
 - One workflow-specific messaging brief (for example, protein design to wet-lab validation)
 - A competitive narrative matrix focused on the boundaries between model, data, and workflow vendors
-- A launch scorecard: activation, repeat use, time-to-insight, decision confidence, and workflow handoff metrics
+- A launch scorecard: activation, repeat use, time to insight, decision confidence, and workflow handoff metrics
 - Short-form video experiments that test the thesis with accessible language before it becomes a LinkedIn point of view
 
 ## Research standards and sources
