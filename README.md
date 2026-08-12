@@ -1,84 +1,57 @@
-Hi, I'm Tiffany 👋
+# Tiffany Dang
 
-Product-minded strategist focused on building systems that improve decision-making, operations, and real-world outcomes.
+**Product marketer and systems builder | Enterprise AI, life sciences, and data platforms**
 
-My background spans strategy consulting, real estate operations, analytics, and workflow design. I enjoy working at the intersection of product, data, operations, and automation—especially on problems involving uncertainty, resource allocation, and large-scale systems.
+I turn complex products, fragmented information, and uncertain decisions into clear market stories and useful workflows. My background spans product marketing, strategy consulting, investment management, analytics, and operations. Working at the intersection of **product, market, data, and execution**.
 
-What I'm Interested In
-- Product Management
-- Autonomous Systems
-- Decision Intelligence
-- Mapping & Geospatial Analysis
-- AI-Assisted Workflows
-- Simulation & Scenario Modeling
-  
-Current Projects
+I'm interested in the infrastructure that makes AI useful in real organizations: trustworthy context, thoughtful workflow design, and human judgment at the moments that matter
 
-Airport Launch Operating System
-A prototype operating system for evaluating airport launch opportunities using geospatial analysis, operational constraints, and scoring frameworks.
+## Featured work
 
-Focus Areas
+### [The AI Biology Stack: From model output to R&D execution](case-studies/ai-biology-stack/README.md)
 
-- GIS-based opportunity mapping
-- Airport segmentation
-- Launch readiness scoring
-- Operational risk assessment
-- Deployment prioritization
+An independent PMM case study on how AI-assisted biology creates value through connected scientific context, computation, experiment execution, and validated learning.
 
-Data Center Site Intelligence Workflow
-A decision-support workflow for evaluating data center development opportunities using infrastructure, utility, and market signals.
+**Focus:** market mapping · category framing · buyer messaging · competitive positioning · GTM validation
 
-Focus Areas
-- Site selection
-- Infrastructure intelligence
-- Comparative analysis
-- Deployment timeline sensitivity
-- Provenance-aware decisioning
+### [Benchling: Positioning the data backbone for AI-powered biotech R&D](case-studies/benchling/README.md)
 
-Skills
+An independent positioning thesis for evolving the story from modern ELN/LIMS to the AI-ready R&D platform that connects scientific data, workflows, and models.
 
-Product & Strategy
-- Product Discovery
-- Roadmapping
-- Prioritization
-- Stakeholder Management
-- Business Case Development
-- Market Analysis
-  
-Data & Analytics
-- SQL
-- Python
-- Tableau
-- Data Modeling
-- Forecasting
-- Scenario Analysis
+**Focus:** enterprise positioning · audience strategy · competitive framing · adoption and expansion
 
-Technical
-- GIS & Spatial Analysis
-- Workflow Automation
-- API Integrations
-- Data Pipelines
-- Dashboard Development
-- AI-Assisted Prototyping
+### Decision systems in development
 
-How I Think
-I am particularly interested in how organizations make decisions when information is incomplete, uncertain, or constantly changing.
+I am also prototyping explainable decision-support workflows for airport launches and data center site selection.
 
-Many of the projects here explore questions such as:
-- Which signals should we trust?
-- How should conflicting information be reconciled?
-- What tradeoffs matter most?
-- How do we make decisions explainable and auditable?
-- How can software help humans make better decisions?
+**Focus:** opportunity mapping · provenance-aware research · scenario modeling · operational risk · deployment prioritization
 
-Professional Background
-- Strategy Consultant at ZS Associates
-- Product Marketing Manager at American Realty Advisors
-- Experience across operations, analytics, investment management, and product-oriented problem solving
+## How I work
 
-Connect
-- LinkedIn: linkedin.com/in/tiffdang1
-- Email: tiffdang1@gmail.com
+- Start with the customer decision and the evidence required to move it.
+- Translate technical capability into credible, specific customer value.
+- Use AI to accelerate research, synthesis, prototyping, and iteration—not to replace judgment.
+- Test the narrative in a real workflow before scaling it.
 
+## Capabilities
 
-Building systems that help people make better decisions 
+| Product marketing & strategy | Data & systems | Building & analysis |
+| --- | --- | --- |
+| Positioning and messaging | SQL and data modeling | AI-assisted prototyping |
+| Market and competitive research | Tableau and dashboards | Workflow automation |
+| Customer and buyer insight | Forecasting and scenarios | API integrations |
+| Go-to-market planning | GIS and spatial analysis | Data pipelines |
+| Sales enablement | Decision frameworks | Research synthesis |
+
+## Background
+
+- Product Marketing Manager, American Realty Advisors
+- Strategy Consultant, ZS Associates
+- Experience across investment management, operations, analytics, and product-oriented problem solving
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tiffdang1/)
+- [tiffdang1@gmail.com](mailto:tiffdang1@gmail.com)
+
+*Building clearer stories and better systems for consequential decisions.*
